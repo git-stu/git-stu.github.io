@@ -1,0 +1,18 @@
+{"name":"hexo","hostname":"wanghuideMacBook-Pro.local","pid":59514,"level":20,"msg":"Hexo version: \u001b[35m3.2.2\u001b[39m","time":"2017-01-14T03:32:49.589Z","v":0}
+{"name":"hexo","hostname":"wanghuideMacBook-Pro.local","pid":59514,"level":20,"msg":"Working directory: \u001b[35m~/workspace/hexo/hexo/\u001b[39m","time":"2017-01-14T03:32:49.594Z","v":0}
+{"name":"hexo","hostname":"wanghuideMacBook-Pro.local","pid":59514,"level":20,"msg":"Config loaded: \u001b[35m~/workspace/hexo/hexo/_config.yml\u001b[39m","time":"2017-01-14T03:32:49.756Z","v":0}
+{"name":"hexo","hostname":"wanghuideMacBook-Pro.local","pid":59514,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/merge-configs.js\u001b[39m","time":"2017-01-14T03:32:49.772Z","v":0}
+{"name":"hexo","hostname":"wanghuideMacBook-Pro.local","pid":59514,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/full-image.js\u001b[39m","time":"2017-01-14T03:32:49.773Z","v":0}
+{"name":"hexo","hostname":"wanghuideMacBook-Pro.local","pid":59514,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/center-quote.js\u001b[39m","time":"2017-01-14T03:32:49.773Z","v":0}
+{"name":"hexo","hostname":"wanghuideMacBook-Pro.local","pid":59514,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/group-pictures.js\u001b[39m","time":"2017-01-14T03:32:49.774Z","v":0}
+{"name":"hexo","hostname":"wanghuideMacBook-Pro.local","pid":59514,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/button.js\u001b[39m","time":"2017-01-14T03:32:49.775Z","v":0}
+{"name":"hexo","hostname":"wanghuideMacBook-Pro.local","pid":59514,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2017-01-14T03:32:49.779Z","v":0}
+{"name":"hexo","hostname":"wanghuideMacBook-Pro.local","pid":59514,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2017-01-14T03:32:49.783Z","v":0}
+{"name":"hexo","hostname":"wanghuideMacBook-Pro.local","pid":59514,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2017-01-14T03:32:49.786Z","v":0}
+{"name":"hexo","hostname":"wanghuideMacBook-Pro.local","pid":59514,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/note.js\u001b[39m","time":"2017-01-14T03:32:49.787Z","v":0}
+{"name":"hexo","hostname":"wanghuideMacBook-Pro.local","pid":59514,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2017-01-14T03:32:49.788Z","v":0}
+{"name":"hexo","hostname":"wanghuideMacBook-Pro.local","pid":59514,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2017-01-14T03:32:49.886Z","v":0}
+{"name":"hexo","hostname":"wanghuideMacBook-Pro.local","pid":59514,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2017-01-14T03:32:49.887Z","v":0}
+{"name":"hexo","hostname":"wanghuideMacBook-Pro.local","pid":59514,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2017-01-14T03:32:49.892Z","v":0}
+{"name":"hexo","hostname":"wanghuideMacBook-Pro.local","pid":59514,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2017-01-14T03:32:49.898Z","v":0}
+{"name":"hexo","hostname":"wanghuideMacBook-Pro.local","pid":59514,"level":20,"msg":"Database saved","time":"2017-01-14T03:32:49.904Z","v":0}
